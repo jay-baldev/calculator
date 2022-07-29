@@ -8,4 +8,4 @@ It calculates operators based on following priority -
   3. Addition 
   4. Subtraction 
   
-  ###### Does not support **brackets**. Just very very simple stuff only.
+  #### **Does not support brackets**. Just very very simple stuff only.
